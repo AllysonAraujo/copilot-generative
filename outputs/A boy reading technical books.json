@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "4df7e5a2-b9c0-403d-8cfa-45f962e83bd7",
+  "content-length": "1312",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a boy in glasses writing on a book",
+        "confidence": 0.7074511051177979,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 1024
+        }
+      },
+      {
+        "text": "a boy in glasses writing in a book",
+        "confidence": 0.732053816318512,
+        "boundingBox": {
+          "x": 0,
+          "y": 16,
+          "w": 736,
+          "h": 877
+        }
+      },
+      {
+        "text": "a blurry image of a girl",
+        "confidence": 0.7951700091362,
+        "boundingBox": {
+          "x": 657,
+          "y": 193,
+          "w": 210,
+          "h": 227
+        }
+      },
+      {
+        "text": "a blurry image of a girl",
+        "confidence": 0.7619222402572632,
+        "boundingBox": {
+          "x": 0,
+          "y": 184,
+          "w": 250,
+          "h": 318
+        }
+      },
+      {
+        "text": "a blurry image of a girl reading a book",
+        "confidence": 0.7578980922698975,
+        "boundingBox": {
+          "x": 791,
+          "y": 239,
+          "w": 228,
+          "h": 320
+        }
+      },
+      {
+        "text": "a blurry image of a stack of books",
+        "confidence": 0.7706838250160217,
+        "boundingBox": {
+          "x": 685,
+          "y": 635,
+          "w": 338,
+          "h": 154
+        }
+      },
+      {
+        "text": "a person writing in a book",
+        "confidence": 0.7905945181846619,
+        "boundingBox": {
+          "x": 0,
+          "y": 693,
+          "w": 708,
+          "h": 295
+        }
+      },
+      {
+        "text": "a close-up of a stack of books",
+        "confidence": 0.8473548293113708,
+        "boundingBox": {
+          "x": 705,
+          "y": 729,
+          "w": 313,
+          "h": 213
+        }
+      },
+      {
+        "text": "a blurry image of a blue book",
+        "confidence": 0.7191794514656067,
+        "boundingBox": {
+          "x": 685,
+          "y": 550,
+          "w": 338,
+          "h": 106
+        }
+      },
+      {
+        "text": "close-up of a person's face",
+        "confidence": 0.8246605396270752,
+        "boundingBox": {
+          "x": 561,
+          "y": 214,
+          "w": 167,
+          "h": 243
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  }
+}

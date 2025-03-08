@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "e9c6d86f-47c6-4389-888b-c6588948a3b5",
+  "content-length": "1306",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a man lying on a couch with a cat",
+        "confidence": 0.7467188835144043,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 1024
+        }
+      },
+      {
+        "text": "a cat standing on its hind legs",
+        "confidence": 0.8201669454574585,
+        "boundingBox": {
+          "x": 547,
+          "y": 209,
+          "w": 463,
+          "h": 753
+        }
+      },
+      {
+        "text": "a man lying on the floor with a cat",
+        "confidence": 0.784143328666687,
+        "boundingBox": {
+          "x": 0,
+          "y": 165,
+          "w": 779,
+          "h": 754
+        }
+      },
+      {
+        "text": "a close-up of a man's face",
+        "confidence": 0.9105813503265381,
+        "boundingBox": {
+          "x": 497,
+          "y": 137,
+          "w": 165,
+          "h": 342
+        }
+      },
+      {
+        "text": "a cat looking up at something",
+        "confidence": 0.7399693727493286,
+        "boundingBox": {
+          "x": 0,
+          "y": 678,
+          "w": 258,
+          "h": 247
+        }
+      },
+      {
+        "text": "a close-up of a brown band",
+        "confidence": 0.7128638625144958,
+        "boundingBox": {
+          "x": 19,
+          "y": 859,
+          "w": 230,
+          "h": 124
+        }
+      },
+      {
+        "text": "a close up of a furry animal",
+        "confidence": 0.7376670837402344,
+        "boundingBox": {
+          "x": 916,
+          "y": 306,
+          "w": 106,
+          "h": 539
+        }
+      },
+      {
+        "text": "a close up of a keyboard",
+        "confidence": 0.7449331879615784,
+        "boundingBox": {
+          "x": 214,
+          "y": 929,
+          "w": 509,
+          "h": 75
+        }
+      },
+      {
+        "text": "a close up of a person's arm",
+        "confidence": 0.800547182559967,
+        "boundingBox": {
+          "x": 0,
+          "y": 313,
+          "w": 151,
+          "h": 377
+        }
+      },
+      {
+        "text": "a man laughing with his mouth open",
+        "confidence": 0.8157192468643188,
+        "boundingBox": {
+          "x": 246,
+          "y": 178,
+          "w": 287,
+          "h": 359
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  }
+}

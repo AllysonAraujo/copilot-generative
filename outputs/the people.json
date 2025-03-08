@@ -1,0 +1,114 @@
+{
+  "apim-request-id": "ea0e4c08-1907-4579-98d3-e9f9852f99a4",
+  "content-length": "1314",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a group of people sitting at a table with a laptop",
+        "confidence": 0.7433313727378845,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 1024
+        }
+      },
+      {
+        "text": "close-up of a person using a laptop",
+        "confidence": 0.8664135336875916,
+        "boundingBox": {
+          "x": 352,
+          "y": 630,
+          "w": 512,
+          "h": 251
+        }
+      },
+      {
+        "text": "a man in glasses sitting at a desk",
+        "confidence": 0.7076725363731384,
+        "boundingBox": {
+          "x": 136,
+          "y": 186,
+          "w": 521,
+          "h": 615
+        }
+      },
+      {
+        "text": "a girl with long curly hair",
+        "confidence": 0.7101925015449524,
+        "boundingBox": {
+          "x": 92,
+          "y": 147,
+          "w": 250,
+          "h": 319
+        }
+      },
+      {
+        "text": "a girl looking at a tablet",
+        "confidence": 0.7042758464813232,
+        "boundingBox": {
+          "x": 625,
+          "y": 252,
+          "w": 383,
+          "h": 433
+        }
+      },
+      {
+        "text": "a woman looking at a tablet",
+        "confidence": 0.771490752696991,
+        "boundingBox": {
+          "x": 674,
+          "y": 0,
+          "w": 266,
+          "h": 299
+        }
+      },
+      {
+        "text": "a close-up of a boy",
+        "confidence": 0.8389630913734436,
+        "boundingBox": {
+          "x": 446,
+          "y": 55,
+          "w": 183,
+          "h": 362
+        }
+      },
+      {
+        "text": "a plant in a blue pot",
+        "confidence": 0.8263503313064575,
+        "boundingBox": {
+          "x": 395,
+          "y": 845,
+          "w": 185,
+          "h": 172
+        }
+      },
+      {
+        "text": "a white cell phone on a table",
+        "confidence": 0.720894455909729,
+        "boundingBox": {
+          "x": 803,
+          "y": 879,
+          "w": 158,
+          "h": 117
+        }
+      },
+      {
+        "text": "a group of pencils in a holder",
+        "confidence": 0.7959469556808472,
+        "boundingBox": {
+          "x": 640,
+          "y": 777,
+          "w": 167,
+          "h": 214
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 1024,
+    "height": 1024
+  }
+}
